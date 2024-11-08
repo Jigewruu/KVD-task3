@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVwCEGemLrRoX2PUdIxa1n3zu1r1kC3iqj9f7Tf0uPKeiCsMyHeM10HWnb15dtDp6hjbSi84GNqNmu/Ml4dumg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Documents\\P E R S O N A L\\KVD\\ExchangeRateApp\\ExchangeRateApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\htmlagilitypack\\1.11.70\\htmlagilitypack.1.11.70.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
